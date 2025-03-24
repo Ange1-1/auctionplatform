@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/auctionserver.dir/auctionserver.cpp.o -o /home/ange1/auctionplatform/backend/bin/auctionserver  ../reactor/libreactor.a ../auction/libauction.a -lpthread ../reactor/libreactor.a 

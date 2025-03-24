@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/reactor.dir/Acceptor.cpp.o"
+  "CMakeFiles/reactor.dir/Acceptor.cpp.o.d"
+  "CMakeFiles/reactor.dir/BankServer.cpp.o"
+  "CMakeFiles/reactor.dir/BankServer.cpp.o.d"
+  "CMakeFiles/reactor.dir/Buffer.cpp.o"
+  "CMakeFiles/reactor.dir/Buffer.cpp.o.d"
+  "CMakeFiles/reactor.dir/Channel.cpp.o"
+  "CMakeFiles/reactor.dir/Channel.cpp.o.d"
+  "CMakeFiles/reactor.dir/Connection.cpp.o"
+  "CMakeFiles/reactor.dir/Connection.cpp.o.d"
+  "CMakeFiles/reactor.dir/Epoll.cpp.o"
+  "CMakeFiles/reactor.dir/Epoll.cpp.o.d"
+  "CMakeFiles/reactor.dir/EventLoop.cpp.o"
+  "CMakeFiles/reactor.dir/EventLoop.cpp.o.d"
+  "CMakeFiles/reactor.dir/InetAddress.cpp.o"
+  "CMakeFiles/reactor.dir/InetAddress.cpp.o.d"
+  "CMakeFiles/reactor.dir/Socket.cpp.o"
+  "CMakeFiles/reactor.dir/Socket.cpp.o.d"
+  "CMakeFiles/reactor.dir/TcpServer.cpp.o"
+  "CMakeFiles/reactor.dir/TcpServer.cpp.o.d"
+  "CMakeFiles/reactor.dir/ThreadPool.cpp.o"
+  "CMakeFiles/reactor.dir/ThreadPool.cpp.o.d"
+  "CMakeFiles/reactor.dir/Timestamp.cpp.o"
+  "CMakeFiles/reactor.dir/Timestamp.cpp.o.d"
+  "CMakeFiles/reactor.dir/bankclient.cpp.o"
+  "CMakeFiles/reactor.dir/bankclient.cpp.o.d"
+  "CMakeFiles/reactor.dir/bankserver.cpp.o"
+  "CMakeFiles/reactor.dir/bankserver.cpp.o.d"
+  "CMakeFiles/reactor.dir/client.cpp.o"
+  "CMakeFiles/reactor.dir/client.cpp.o.d"
+  "CMakeFiles/reactor.dir/client1.cpp.o"
+  "CMakeFiles/reactor.dir/client1.cpp.o.d"
+  "CMakeFiles/reactor.dir/tcpepoll.cpp.o"
+  "CMakeFiles/reactor.dir/tcpepoll.cpp.o.d"
+  "libreactor.a"
+  "libreactor.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/reactor.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

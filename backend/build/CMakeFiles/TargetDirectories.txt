@@ -1,0 +1,11 @@
+/home/ange1/auctionplatform/backend/build/CMakeFiles/edit_cache.dir
+/home/ange1/auctionplatform/backend/build/CMakeFiles/rebuild_cache.dir
+/home/ange1/auctionplatform/backend/build/src/reactor/CMakeFiles/reactor.dir
+/home/ange1/auctionplatform/backend/build/src/reactor/CMakeFiles/edit_cache.dir
+/home/ange1/auctionplatform/backend/build/src/reactor/CMakeFiles/rebuild_cache.dir
+/home/ange1/auctionplatform/backend/build/src/auction/CMakeFiles/auction.dir
+/home/ange1/auctionplatform/backend/build/src/auction/CMakeFiles/edit_cache.dir
+/home/ange1/auctionplatform/backend/build/src/auction/CMakeFiles/rebuild_cache.dir
+/home/ange1/auctionplatform/backend/build/src/main/CMakeFiles/auctionserver.dir
+/home/ange1/auctionplatform/backend/build/src/main/CMakeFiles/edit_cache.dir
+/home/ange1/auctionplatform/backend/build/src/main/CMakeFiles/rebuild_cache.dir
